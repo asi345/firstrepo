@@ -1,0 +1,25 @@
+commit 22b4e2916785084f0fab9c248d1a9672246f3a29
+Author: asi345 <inanata15@gmail.com>
+Date:   Sun Feb 16 20:07:42 2020 +0300
+
+    ignoring from now on
+
+commit c1529d38b30cfe719a5d15d9488cc426b0b38f7d
+Author: asi345 <inanata15@gmail.com>
+Date:   Sun Feb 16 19:07:10 2020 +0300
+
+    Bunları sil aq
+
+commit 540a63e8e95d94cbf02b3829f9c2f98b077fa756
+Author: asi345 <inanata15@gmail.com>
+Date:   Sun Feb 16 19:03:08 2020 +0300
+
+    Two files already
+    
+    a
+
+commit 13562fdd6ff9fab567872179b1bf9bb28a9035f3
+Author: asi345 <inanata15@gmail.com>
+Date:   Sun Feb 16 18:57:59 2020 +0300
+
+    First day of a noob
